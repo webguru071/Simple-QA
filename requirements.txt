@@ -1,4 +1,4 @@
-Django==2.1.7
+Django==2.1.15
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
 django-seed==0.1.9
